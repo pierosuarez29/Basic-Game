@@ -17,3 +17,9 @@ There are exactly two steps:
 -lpthread: Enables the use of threads.
 
 Finally, compile and execute the file named 'main'; everything is linked to 'main'.
+
+I recommend maximizing the execution console for a better experience and to avoid bugs. 
+At the moment, only the main menu has threads activated; however, 
+I will be gradually implementing threads throughout the entire project and fixing some bugs. 
+
+Thanks for visiting! :D
